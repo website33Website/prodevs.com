@@ -1,0 +1,124 @@
+.home{
+    background-image: url(../prodevs/herobg.webp);
+    height: 100vh;
+    background-size: 80%;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+nav{
+    display: flex;
+    margin-top: 2%;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid rgb(240, 233, 233);
+    margin-left: 4%;
+    margin-right: 4%;
+    border-radius: 25px;
+}
+nav a{
+    text-decoration: none;
+    font-size: large;
+    padding-left: 30px;
+    color: black;
+}
+.hire{
+    display: flex;
+    margin-left: 5%;
+}
+.Africa{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    font-weight: 750;
+    line-height: 50px;
+}
+.tech{
+    margin-top: 10%;
+}
+.hero{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.paragraph{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.find{
+    display: flex;
+    background-color: rgb(215, 235, 240);
+    padding-left: 5%;
+    padding-top: 3%;
+    justify-content: space-around;
+}
+.companies{
+    display: flex;
+    margin-top: 7%;
+    margin-left: 3%;
+}
+.iframe{
+    display: flex;
+    background-color: blue;
+    padding: 60px;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+}
+.design{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: 650;
+    margin-left: 5%;
+}
+.sabiha{
+    display: flex;
+    font-size: 10px;
+    justify-content: space-around;
+}
+.sabiha2{
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    line-height: 0px;
+    margin-bottom: 35%;
+}
+.design2{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: 650;
+    margin-left: 75%;
+}
+.variety{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 4%;
+}
+.body{
+    background-color: rgb(236, 247, 247);
+}
+.team{
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.access{
+    display: flex;
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+}
+.blog a{
+    text-decoration: none;
+    color: rgb(100, 99, 99);
+    font-size: 18px;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 2%;
+}
